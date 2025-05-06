@@ -1,0 +1,32 @@
+{
+    "stores": [
+        {
+            "id": "Shop 5B",
+            "name": "Hassan Store",
+            "image": "/stores/001.png",
+            "tags": ["Store", "Hassan", "Shop", "5B"],
+            "directions": ""
+        },
+        {
+            "id": "Shop 4A",
+            "name": "Junvinsuiton Store",
+            "image": "/stores/002.png",
+            "tags": ["4A", "Shop", "Store", "Junvinsuiton"],
+            "directions": ""
+        },
+        {
+            "id": "Shop 34B",
+            "name": "Vento Furnitures",
+            "image": "/stores/003.png",
+            "tags": ["Vento", "Furnitures", "34B", "Store"],
+            "directions": ""
+        },
+        {
+            "id": "Shop 23A",
+            "name": "Lad Furniture",
+            "image": "/stores/004.png",
+            "tags": ["Shop", "Furniture", "Lad", "Store 23A"],
+            "directions": ""
+        }
+    ]
+}
